@@ -150,7 +150,7 @@
 <text x="35.5" y="14.4" size="1.016" layer="26" font="vector" ratio="11" rot="SMR270">G</text>
 <text x="35.6" y="22.9" size="1.016" layer="26" font="vector" ratio="11" rot="SMR270">3.3/5V</text>
 <text x="35.5" y="17.3" size="1.016" layer="26" font="vector" ratio="11" rot="SMR270">RX</text>
-<text x="31.4" y="31" size="1.016" layer="25" font="vector" ratio="11" rot="SR180">MIDI TTL Serial Converter v0.2</text>
+<text x="5.7" y="1.1" size="1.016" layer="25" font="vector" ratio="11" rot="SR0">MIDI TTL Serial Converter v0.2</text>
 </plain>
 <libraries>
 <library name="optocoupler">
