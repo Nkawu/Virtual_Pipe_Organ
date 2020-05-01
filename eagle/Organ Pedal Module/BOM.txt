@@ -1,0 +1,6 @@
+Organ Pedal Module
+
+Sch:Name	Sch:Value	Sch:Device	Sch:Package	Sch:Description
+C1	0.1uF	C_0805MP	C0805MP	NON-POLARIZED CAP
+J1		22-05-7038-03	7395-03	CONNECTOR
+P1	10K	PTA6043	PTA6043	Bourns 1/4W Through Hole Slide Potentiometer Top, Standard, 60mm Adjustment Type
